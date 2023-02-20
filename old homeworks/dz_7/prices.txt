@@ -1,0 +1,5 @@
+some1   1   100
+some2   4   50
+some3   100 0
+some4   21  2
+some5   3   1000
